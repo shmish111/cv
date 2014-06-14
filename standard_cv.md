@@ -1,6 +1,5 @@
 # David Smith
-## Senior PHP Developer, UX Director
-
+## Software Developer
 > [Download PDF](resume.pdf)  
 > [craig@there4development.com](craig@there4development.com)  
 > (999) 888-7777
